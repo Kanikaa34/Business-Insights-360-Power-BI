@@ -6,6 +6,12 @@ An end-to-end Power BI business intelligence solution delivering 360° insights 
 
 Business Insights 360 is a business intelligence project built using Power BI to analyze business performance across key functional areas. The project transforms business data into interactive dashboards that help stakeholders understand performance, identify trends, and make data-driven decisions.
 
+## 🔗 Interactive Dashboard
+
+[**View Business Insights 360 Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiYTI3NmRjMmQtM2JkMC00OWRlLTg0OWUtNmM0ZjU5YjZhNjRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Explore interactive dashboards covering Finance, Sales, Marketing, and Supply Chain.
+
 ## 🎯 Project Objectives
 
 - Analyze financial performance and profitability.
