@@ -64,3 +64,16 @@ This project demonstrates the application of business intelligence and data anal
 ---
 
 *This project is part of my learning journey in business intelligence and data analytics.*
+## 📸 Dashboard Previews
+
+### Finance View
+![Finance Dashboard](Screenshot%202026-10-09%20175832.png)
+
+### Sales View
+![Sales Dashboard](Screenshot%202026-10-09%20175857.png)
+
+### Marketing View
+![Marketing Dashboard](Screenshot%202026-10-09%20175917.png)
+
+### Supply Chain View
+![Supply Chain Dashboard](Screenshot%202026-10-09%20175942.png)
