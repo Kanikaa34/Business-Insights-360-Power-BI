@@ -48,15 +48,6 @@ Analyze supply chain performance and forecast-related metrics to identify potent
 - KPI reporting and business performance analysis
 - Translating business data into actionable insights
 
-## 📁 Repository Contents
-
-This repository may include:
-
-- Power BI project file (`.pbix`)
-- Dashboard screenshots
-- SQL queries used in the project
-- Supporting documentation
-
 ## 📈 Key Learnings
 
 - Designing interactive reports for different business functions
